@@ -13,8 +13,8 @@
 | Ternoa Indexer | Ternoa Alphanet Indexer |  [LINK](https://indexer-alphanet.ternoa.dev/) |  [LINK](https://github.com/capsule-corp-ternoa/ternoa-subql) | - | [ipapandinas](https://github.com/ipapandinas) [victor-salomon](https://github.com/Victor-Salomon) |
 | Ternoa Dictionary | Ternoa Mainnet Dictionary |  [LINK](https://dictionary-mainnet.ternoa.dev/) |  [LINK](https://github.com/capsule-corp-ternoa/ternoa-subql-dictionary) | - | [ipapandinas](https://github.com/ipapandinas) [victor-salomon](https://github.com/Victor-Salomon) | 
 | Ternoa Dictionary | Ternoa Alphanet Dictionary |  [LINK](https://dictionary-alphanet.ternoa.dev/) |  [LINK](https://github.com/capsule-corp-ternoa/ternoa-subql-dictionary) | - | [ipapandinas](https://github.com/ipapandinas) [victor-salomon](https://github.com/Victor-Salomon) | 
-| Ternoa Wallet | Ternoa Wallet |  [LINK](https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod) |  [LINK](https://github.com/capsule-corp-ternoa/ternoa-wallet) | - | - |
+| Ternoa Wallet | Ternoa Wallet |  [LINK](https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod) |  [LINK](https://github.com/capsule-corp-ternoa/ternoa-wallet) | - | [dhammani](https://github.com/dhammani) |
 | Ternoa Bridge | Ternoa Mainnet Bridge |  [LINK](https://bridge.ternoa.network/) | - | - | - |
 | Ternoa Bridge | Ternoa Alphanet Bridge |  [LINK](https://alphanet.bridge.ternoa.network/) | - | - | - |
 | Ternoa Faucet | Ternoa Alphanet Faucet |  [LINK](https://www.ternoa.com/alphanet) | - | - | - |
-| Ternoa Standard Proposals | Ternoa Standard Proposals | - | [LINK](https://github.com/capsule-corp-ternoa/ternoa-standard-proposals) | - | - |
+| Ternoa Standard Proposals | Ternoa Standard Proposals | - | [LINK](https://github.com/capsule-corp-ternoa/ternoa-standard-proposals) | - | [M2613](https://github.com/M2613) [peshwar9](https://github.com/peshwar9) |
